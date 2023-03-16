@@ -1,0 +1,8 @@
+// Hello;
+// int a = 'A' + 1;
+// printc a;
+int a = 'A';
+int b = 1;
+int c = 2;
+int d = a + b + c;
+printc d;

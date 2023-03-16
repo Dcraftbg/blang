@@ -1,0 +1,7 @@
+if (1) {
+	printc 'H';
+	printc 'e';
+	printc 'l';
+	printc 'l';
+	printc 'o';
+}

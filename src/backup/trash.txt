@@ -1,0 +1,30 @@
+				/*
+				if (stack.back().isconstant) {
+					if (r.istackalloced) {
+						EvalStackIden v1 = stack.back();
+						stack.pop_back();
+						//fprintf(f, "   add rsp, ")
+						fprintf(f, "   add %s[rsp+%lu], %l\n", getVarTypeName(r.var),stack_size - r.var.stack_offset, v1.operand);
+						stack.push_back(EvalStackIden(false, r.operand));
+					}
+					else {
+						EvalStackIden v1 = stack.back();
+						stack.pop_back();
+						stack.push_back(v1.operand + r.operand);
+
+					}
+				}
+				else { 
+					if (r.istackalloced) {
+						EvalStackIden v1 = stack.back();
+						stack.pop_back();
+						fprintf(f, "   add %s[rsp+%lu], %s[rsp+%lu]\n", getVarTypeName(r.var), stack_size-r.var.stack_offset, getVarTypeName(v1.var), stack_size-v1.var.stack_offset);
+					}
+					else {
+						EvalStackIden v1 = stack.back();
+						stack.pop_back();
+						fprintf(f, "   add %s[rsp+%lu], %l\n", getVarTypeName(v1.var), stack_size - v1.var.stack_offset, r.operand);
+					}
+					//stack.push_back(EvalStackIden(false, 0, r.var));
+				}
+				*/

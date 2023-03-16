@@ -1,0 +1,3 @@
+include "hello.bl"
+printc '\n';
+include "test.bl"
