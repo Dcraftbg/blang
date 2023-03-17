@@ -1,9 +1,0 @@
-﻿  main.cpp
-C:\Programming Languages\C++\Projects\blang\Blang\src\main.cpp(296,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Programming Languages\C++\Projects\blang\Blang\src\main.cpp(297,98): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Programming Languages\C++\Projects\blang\Blang\src\main.cpp(315,16): warning C4102: 'NEWLINEHANDLE': unreferenced label
-C:\Programming Languages\C++\Projects\blang\Blang\src\main.cpp(435,13): warning C4102: 'ENDTOKENIZE': unreferenced label
-C:\Programming Languages\C++\Projects\blang\Blang\src\main.cpp(995,54): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
-C:\Programming Languages\C++\Projects\blang\Blang\src\main.cpp(1056,54): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
-C:\Programming Languages\C++\Projects\blang\Blang\src\main.cpp(448): warning C4715: 'findFirstByValueInMap<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,int>': not all control paths return a value
-  Blang.vcxproj -> C:\Programming Languages\C++\Projects\blang\Blang\x64\Debug\Blang.exe
