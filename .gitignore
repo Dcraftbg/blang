@@ -1,2 +1,12 @@
 .idea/
 .vs/
+x64/
+x32/
+Sandbox/bin/
+Sandbox/int/
+*.asm
+*.o
+*.exe
+Blang.vcsproj.filters
+Blang.vcsproj.user
+
