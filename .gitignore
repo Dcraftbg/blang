@@ -1,9 +1,9 @@
 .idea/
 .vs/
-x64/
-x32/
-Sandbox/bin/
-Sandbox/int/
+x64/*
+x32/*
+Sandbox/bin/*
+Sandbox/int/*
 *.asm
 *.o
 *.exe
